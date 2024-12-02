@@ -33,7 +33,7 @@ py4j==0.10.9.7
 pyaml==24.9.0
 pyarrow==18.0.0
 pyparsing==3.2.0
-pytest==8.3.3
+pytest==8.3.4
 python-dateutil==2.9.0.post0
 pytz==2024.2
 
